@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/org-vestige--team-6C47FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Org"/>
   </a>
   <img src="https://img.shields.io/badge/status-actively%20building-22c55e?style=for-the-badge" alt="Status"/>
-  <img src="https://img.shields.io/badge/founded-2025-f59e0b?style=for-the-badge" alt="Founded"/>
+  <img src="https://img.shields.io/badge/founded-2026-f59e0b?style=for-the-badge" alt="Founded"/>
   <img src="https://img.shields.io/badge/license-MIT-3b82f6?style=for-the-badge" alt="License"/>
 </p>
 
