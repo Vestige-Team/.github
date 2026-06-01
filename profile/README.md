@@ -65,7 +65,7 @@ We'd love to hear from potential early users, collaborators, or just people who 
   <a href="mailto:vestige.corpteam@gmail.com">
     <img src="https://img.shields.io/badge/email-vestige.corpteam@gmail.com-6C47FF?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/vestigeteam">
+  <a href="https://www.linkedin.com/company/vestigeteam">
     <img src="https://img.shields.io/badge/linkedin-@vestigeteam-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://vestigeteam.dev">
