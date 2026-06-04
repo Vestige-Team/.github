@@ -1,28 +1,34 @@
+<div align="center">
+  
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=164260&height=200&section=header&text=Vestige%20Team&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Play%20Smarter,%20Not%20tired.&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E2E2E&height=200&section=header&text=【VESTIGE%20Team】&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Play%20Smarter,%20Not%20tired.&descAlignY=60&descAlign=50" width="100%"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/vestige-team">
-    <img src="https://img.shields.io/badge/org-vestige--team-6C47FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Org"/>
-  </a>
-  <img src="https://img.shields.io/badge/status-actively%20building-22c55e?style=for-the-badge" alt="Status"/>
-  <img src="https://img.shields.io/badge/founded-2026-f59e0b?style=for-the-badge" alt="Founded"/>
-  <img src="https://img.shields.io/badge/license-MIT-3b82f6?style=for-the-badge" alt="License"/>
-</p>
+<br>
+
+[![GitHub Org](https://img.shields.io/badge/org-vestige--team-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=AD27F5)](#)
+[![Status](https://img.shields.io/badge/status-actively%20building-000000?style=for-the-badge&logoColor=white&labelColor=000000&color=2BA642)](#)
+[![Founded](https://img.shields.io/badge/founded-2026-000000?style=for-the-badge&logoColor=white&labelColor=000000&color=E3C856)](#)
+[![License](https://img.shields.io/badge/license-MIT-000000?style=for-the-badge&logoColor=white&labelColor=000000&color=E83535)](#)
+
+</div>
 
 ---
 
-## 🤜🤛 Who We Are
+<div align="center">
+  <h2>✦ ＷＨＯ　ＷＥ　ＡＲＥ ✦</h2>
+  <img src="Vestige_banner-removebg-preview.png" width="350" alt="Sparkles">
+</div>
 
 **Vestige Team** is an independent software studio founded by Computer Science students driven by a simple belief: great software leaves a mark. Our name reflects our philosophy. A vestige is a trace left behind, something meaningful that endures. That's the kind of software we strive to create: products that leave a lasting impact through simplicity, usefulness, and quality.
 
-
 ---
 
-## 🚀 What Are We Building?
+<div align="center">
+  <h2>✦ ＷＨＡＴ　ＡＲＥ　ＷＥ　ＢＵＩＬＤＩＮＧ？ ✦</h2>
+</div>
 
-### 🎮 Vestige Play *(in development)*
+### 💿 Vestige Play *(in development)*
 
 > **Your gaming journey, intelligently planned.**
 
@@ -30,22 +36,24 @@ Vestige Play is a SaaS platform that helps gamers take control of their time by 
 
 - 📚 **Learn more** on Vestige Play Docs
 
-Whether you have 5 hours a week or 30, GameFlow helps you spend them on the right game.
+Whether you have 5 hours a week or 30, Vestige Play helps you spend them on the right game.
 
 ---
 
-## 📁 Repository Structure
+<div align="center">
+  <h2>✦ ＲＥＰＯＳＩＴＯＲＹ　ＳＴＲＵＣＴＵＲＥ ✦</h2>
+</div>
 
-This GitHub organization hosts all Vestige Team projects. Here's how we organize our work:
-
-```
+```text
 vestige-team/
 ├── COMING NEXT
 ```
 
 ---
 
-## 🤝 Contributing
+<div align="center">
+  <h2>✦ ＣＯＮＴＲＩＢＵＴＩＮＧ ✦</h2>
+</div>
 
 We're not open for external contributions yet as we're heads-down on the core product, but we welcome:
 
@@ -57,34 +65,30 @@ When we open up contributions, full guidelines will live in `CONTRIBUTING.md` in
 
 ---
 
-## 📬 Get in Touch
+<div align="center">
+  <h2>✦ ＧＥＴ　ＩＮ　ＴＯＵＣＨ ✦</h2>
+</div>
 
-We'd love to hear from potential early users, collaborators, or just people who are curious.
-
-<p>
+<p align="center">
   <a href="mailto:vestige.corpteam@gmail.com">
-    <img src="https://img.shields.io/badge/email-vestige.corpteam@gmail.com-6C47FF?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/email-vestige.corpteam@gmail.com-000000?style=flat-square&logo=gmail&logoColor=white&labelColor=000000&color=F51111"/>
   </a>
   <a href="https://www.linkedin.com/company/vestigeteam">
-    <img src="https://img.shields.io/badge/linkedin-@vestigeteam-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/linkedin-@vestigeteam-000000?style=flat-square&logo=linkedin&logoColor=white&labelColor=000000&color=1142F5"/>
   </a>
   <a href="https://vestigeteam.dev">
-    <img src="https://img.shields.io/badge/website-vestigeteam.dev-22c55e?style=flat-square&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/cooming soon...-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=000000&color=FFFFFF"/>
   </a>
 </p>
 
----
+<br>
 
-## 📄 License
-
-All public Vestige Team repositories are licensed under the **MIT License** unless otherwise noted. See individual repos for details.
-
----
-
-<p align="center">
-  <sub>Made with love from Argentina - <strong>Vestige Team</strong> 🎮</sub>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=164260&height=80&section=footer" width="100%"/>
-</p>
+<div align="center">
+  <img src="Vestige_2.0_LOGO_2.png" width="150" alt="Sparkles Bottom" style="transform: rotate(180deg);">
+</div>
+<div align="center">
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Eczar&size=35&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=From+Buenos+Aires+%F0%9F%A7%89"/>
+  <p><sub>Made with love ❤️</sub></p>
+</h1>
+</div>
