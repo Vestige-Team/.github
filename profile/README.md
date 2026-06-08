@@ -17,7 +17,7 @@
 
 <div align="center">
   <h2>✦ ＷＨＯ　ＷＥ　ＡＲＥ ✦</h2>
-  <img src="Vestige_banner-removebg-preview.png" width="350" alt="Sparkles">
+  <img src="Vestige_banner-removebg-preview.png" width="450" alt="Sparkles">
 </div>
 
 **Vestige Team** is an independent software studio founded by Computer Science students driven by a simple belief: great software leaves a mark. Our name reflects our philosophy. A vestige is a trace left behind, something meaningful that endures. That's the kind of software we strive to create: products that leave a lasting impact through simplicity, usefulness, and quality.
@@ -26,6 +26,7 @@
 
 <div align="center">
   <h2>✦ ＷＨＡＴ　ＡＲＥ　ＷＥ　ＢＵＩＬＤＩＮＧ？ ✦</h2>
+    <img src="Vestige Boo No bg.png" width="450" alt="Boo">
 </div>
 
 ### 💿 Vestige Play *(in development)*
@@ -84,7 +85,7 @@ When we open up contributions, full guidelines will live in `CONTRIBUTING.md` in
 <br>
 
 <div align="center">
-  <img src="Vestige_2.0_LOGO_2.png" width="150" alt="Sparkles Bottom" style="transform: rotate(180deg);">
+  <img src="Vestige_2.0_LOGO_2.png" width="150" alt="Logo">
 </div>
 <div align="center">
 <h1>
