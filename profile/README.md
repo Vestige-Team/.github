@@ -1,94 +1,167 @@
 <div align="center">
-  
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E2E2E&height=200&section=header&text=【VESTIGE%20Team】&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Play%20Smarter,%20Not%20tired.&descAlignY=60&descAlign=50" width="100%"/>
-</p>
 
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://vestigeplay.com/assets/Ghost-light.png" />
+  <img src="https://vestigeplay.com/assets/ghost.png" width="132" alt="Boo — the Vestige ghost mascot, wearing headphones with a coffee mug" />
+</picture>
 
-[![GitHub Org](https://img.shields.io/badge/org-vestige--team-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=AD27F5)](#)
-[![Status](https://img.shields.io/badge/status-actively%20building-000000?style=for-the-badge&logoColor=white&labelColor=000000&color=2BA642)](#)
-[![Founded](https://img.shields.io/badge/founded-2026-000000?style=for-the-badge&logoColor=white&labelColor=000000&color=E3C856)](#)
-[![License](https://img.shields.io/badge/license-MIT-000000?style=for-the-badge&logoColor=white&labelColor=000000&color=E83535)](#)
+<br /><br />
+
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=42&duration=3000&pause=900&color=EC3B47&center=true&vCenter=true&width=560&height=72&lines=Vestige+Team" alt="Vestige Team" />
+
+### We build software that leaves a mark.
+
+<sub>An independent studio out of Buenos Aires · founded by Computer Science students</sub>
+
+<br />
+
+[![Independent studio](https://img.shields.io/badge/Independent_Studio-131316?style=for-the-badge&labelColor=131316&color=EC3B47)](https://vestigeplay.com)
+[![Est. 2026](https://img.shields.io/badge/Est._2026-131316?style=for-the-badge&labelColor=131316&color=D7B24A)](#-roadmap)
+[![Buenos Aires](https://img.shields.io/badge/Buenos_Aires-131316?style=for-the-badge&labelColor=131316&color=8B8B93)](#)
+[![Actively building](https://img.shields.io/badge/Actively_Building-131316?style=for-the-badge&labelColor=131316&color=55A869)](https://vestigeplay.com/changelog)
 
 </div>
 
 ---
 
 <div align="center">
-  <h2>✦ ＷＨＯ　ＷＥ　ＡＲＥ ✦</h2>
-  <img src="Vestige_banner-removebg-preview.png" width="350" alt="Sparkles">
+
+### ✦ &nbsp; WHO WE ARE &nbsp; ✦
+
 </div>
 
-**Vestige Team** is an independent software studio founded by Computer Science students driven by a simple belief: great software leaves a mark. Our name reflects our philosophy. A vestige is a trace left behind, something meaningful that endures. That's the kind of software we strive to create: products that leave a lasting impact through simplicity, usefulness, and quality.
+A **vestige** is a trace left behind — something meaningful that endures after the moment has passed. We picked the name because it's the bar we hold our work to: not software that merely runs, but software people remember using.
+
+We're a small, independent studio founded by Computer Science students who care about the whole craft — architecture, backend logic, interface, and the last mile of polish that most projects skip. We ship deliberately, we ship honestly, and we sweat the details you'd notice.
+
+> *Great software leaves a mark. We build both the code and the design — so it does.*
 
 ---
 
 <div align="center">
-  <h2>✦ ＷＨＡＴ　ＡＲＥ　ＷＥ　ＢＵＩＬＤＩＮＧ？ ✦</h2>
+
+### ✦ &nbsp; WHAT WE'RE BUILDING &nbsp; ✦
+
 </div>
 
-### 💿 Vestige Play *(in development)*
+<img align="right" width="46%" src="https://vestigeplay.com/assets/screenshots/library.png" alt="Vestige Play — library view showing tracked games, playtime and stats" />
 
-> **Your gaming journey, intelligently planned.**
+### 🎮 &nbsp;Vestige Play &nbsp;<sub>· in active development</sub>
 
-Vestige Play is a SaaS platform that helps gamers take control of their time by transforming their game library into an actionable weekly schedule. We connect to your existing library (Steam, PlayStation, Xbox, and more), analyze your backlog, and surface intelligent recommendations for what to play next, and for how long.
+**Your gaming journey, intelligently planned.**
 
-- 📚 **Learn more** on Vestige Play Docs
+Vestige Play turns a sprawling game library into a plan you'll actually follow. It reads your backlog, tracks your playtime and stats, and surfaces what to play next — and for how long — so your limited hours land on the right game.
 
-Whether you have 5 hours a week or 30, Vestige Play helps you spend them on the right game.
+- 📚 &nbsp;**Syncs your library** — connects to Steam and reads your collection automatically
+- ⏱️ &nbsp;**Tracks time & stats** — playtime, completion, backlog health, streaks
+- 🧭 &nbsp;**Plans your week** — turns "180 games, no idea what to play" into a schedule
+- 🖥️ &nbsp;**Runs on Windows** today — PlayStation, Xbox & more are on the roadmap
+- 🆓 &nbsp;**Free, no account** — Steam login stays with Steam; we never see your password
+
+<br />
+
+[![Visit vestigeplay.com](https://img.shields.io/badge/Visit-vestigeplay.com-EC3B47?style=for-the-badge&labelColor=131316&logo=googlechrome&logoColor=white)](https://vestigeplay.com)
+[![Download for Windows](https://img.shields.io/badge/Download-Windows_10_&_11-55A869?style=for-the-badge&labelColor=131316&logo=windows&logoColor=white)](https://vestigeplay.com)
+[![Changelog](https://img.shields.io/badge/Read_the-Changelog-D7B24A?style=for-the-badge&labelColor=131316&logo=git&logoColor=white)](https://vestigeplay.com/changelog)
+
+<br clear="right" />
 
 ---
 
 <div align="center">
-  <h2>✦ ＲＥＰＯＳＩＴＯＲＹ　ＳＴＲＵＣＴＵＲＥ ✦</h2>
+
+### ✦ &nbsp; HOW WE BUILD &nbsp; ✦
+
+<br />
+
+The stack behind our products — from the desktop client to the site you're reading about above.
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=ts,react,vite,python,fastapi,nodejs,cloudflare,figma&theme=dark" alt="TypeScript, React, Vite, Python, FastAPI, Node.js, Cloudflare, Figma" />
+
+<br /><br />
+
+<table>
+  <tr>
+    <td align="center"><b>Frontend</b><br /><sub>TypeScript · React · Vite</sub></td>
+    <td align="center"><b>Backend</b><br /><sub>Python · FastAPI · Node.js</sub></td>
+    <td align="center"><b>Infra</b><br /><sub>Cloudflare · edge deploys</sub></td>
+    <td align="center"><b>Design</b><br /><sub>Figma · in-house system</sub></td>
+  </tr>
+</table>
+
 </div>
 
-```text
-vestige-team/
-├── COMING NEXT
+---
+
+<div align="center">
+
+### ✦ &nbsp; ROADMAP &nbsp; ✦
+
+</div>
+
+```mermaid
+timeline
+    title Vestige Play — where we're headed
+    Alpha · 2026   : Steam library sync : Playtime & stats tracking : Windows 10 & 11 client
+    Beta           : Weekly play planner : Goals & backlog health : Public builds & feedback loop
+    1.0            : More platforms — PlayStation & Xbox : Community features : Smarter recommendations
 ```
 
----
-
 <div align="center">
-  <h2>✦ ＣＯＮＴＲＩＢＵＴＩＮＧ ✦</h2>
+<sub>Shipping in the open — every build is documented in the <a href="https://vestigeplay.com/changelog">changelog</a>.</sub>
 </div>
-
-We're not open for external contributions yet as we're heads-down on the core product, but we welcome:
-
-- 🐛 **Bug reports** - Open an issue on any active repository
-- 💡 **Feature ideas** - Start a GitHub Discussion in the relevant repo
-- 🌟 **Stars** - They genuinely motivate us more than you'd think
-
-When we open up contributions, full guidelines will live in `CONTRIBUTING.md` in each repository.
 
 ---
 
 <div align="center">
-  <h2>✦ ＧＥＴ　ＩＮ　ＴＯＵＣＨ ✦</h2>
+
+### ✦ &nbsp; CONTRIBUTING &nbsp; ✦
+
 </div>
 
-<p align="center">
-  <a href="mailto:vestige.corpteam@gmail.com">
-    <img src="https://img.shields.io/badge/email-vestige.corpteam@gmail.com-000000?style=flat-square&logo=gmail&logoColor=white&labelColor=000000&color=F51111"/>
-  </a>
-  <a href="https://www.linkedin.com/company/vestigeteam">
-    <img src="https://img.shields.io/badge/linkedin-@vestigeteam-000000?style=flat-square&logo=linkedin&logoColor=white&labelColor=000000&color=1142F5"/>
-  </a>
-  <a href="https://vestigeteam.dev">
-    <img src="https://img.shields.io/badge/cooming soon...-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=000000&color=FFFFFF"/>
-  </a>
-</p>
+We're heads-down on the core product, so external code contributions aren't open yet — but these genuinely help:
 
-<br>
+| | | |
+|:--|:--|:--|
+| 🐛 &nbsp;**Bug reports** | Open an issue on any active repo | Every report gets read |
+| 💡 &nbsp;**Feature ideas** | Start a Discussion in the relevant repo | We build in the open |
+| ⭐ &nbsp;**Stars** | Star what you like | They motivate us more than you'd think |
+
+<sub>When we open up code contributions, guidelines will live in each repo's <code>CONTRIBUTING.md</code>.</sub>
+
+---
 
 <div align="center">
-  <img src="Vestige_2.0_LOGO_2.png" width="150" alt="Sparkles Bottom" style="transform: rotate(180deg);">
+
+### ✦ &nbsp; GET IN TOUCH &nbsp; ✦
+
+<br />
+
+<a href="https://vestigeplay.com">
+  <img src="https://img.shields.io/badge/Website-vestigeplay.com-EC3B47?style=for-the-badge&labelColor=131316&logo=googlechrome&logoColor=white" alt="Website" />
+</a>
+<a href="mailto:vestige.corpteam@gmail.com">
+  <img src="https://img.shields.io/badge/Email-vestige.corpteam-131316?style=for-the-badge&labelColor=131316&color=EA4335&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/company/vestigeteam">
+  <img src="https://img.shields.io/badge/LinkedIn-@vestigeteam-0A66C2?style=for-the-badge&labelColor=131316&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
 </div>
+
+<br />
+
 <div align="center">
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Eczar&size=35&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=From+Buenos+Aires+%F0%9F%A7%89"/>
-  <p><sub>Made with love ❤️</sub></p>
-</h1>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://vestigeplay.com/assets/logo.png" />
+  <img src="https://vestigeplay.com/assets/logo-light.png" width="90" alt="Vestige wordmark" />
+</picture>
+
+<img src="https://readme-typing-svg.demolab.com?font=Eczar&size=30&duration=2500&pause=900&color=8B8B93&center=true&vCenter=true&width=520&height=60&lines=From+Buenos+Aires+%F0%9F%A7%89;Play+smarter%2C+not+tired." alt="From Buenos Aires — Play smarter, not tired." />
+
+<sub>Made with ❤️ &nbsp;·&nbsp; © 2026 Vestige Team</sub>
+
 </div>
